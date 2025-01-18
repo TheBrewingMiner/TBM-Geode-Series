@@ -1,0 +1,27 @@
+{
+  "feature": "tbm_motherlode:gold_lode",
+  "placement": [
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 135
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:uniform",
+        "max_inclusive": {
+          "absolute": 56
+        },
+        "min_inclusive": {
+          "above_bottom": 48
+        }
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

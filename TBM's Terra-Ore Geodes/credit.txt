@@ -1,0 +1,11 @@
+Datapack created and configured by TheBrewingMiner
+PlanetMinecraft: https://www.planetminecraft.com/member/thebrewingminer/
+
+Iron and copper geodes suggested by @blrryfacee on VanillaTweaks' Discord.
+Diamond geodes suggested by @akisephila and @sympole on VT Discord.
+Lapis geodes suggested by peA_sh0ter on PlanetMinecraft.
+
+Terralith by Starmute, et. al (Stardust Labs): https://www.stardustlabs.net
+
+Title logo created using Ewan Howell's Minecraft Title Generator plugin via Blockbench.
+https://ewanhowell.com
