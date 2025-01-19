@@ -3,25 +3,32 @@
     "pack_format": 10,
     "supported_formats": [
       10,
-      48
+      57
     ],
     "description": "§9More geodes in Terralith. §2Versions 1.19 - 1.21"
   },
   "overlays": {
     "entries": [
       {
+        "directory": "1-20-5-overlay",
         "formats": [
           41,
           42
-        ],
-        "directory": "1-20-5-overlay"
+        ]
       },
       {
+        "directory": "1-21-overlay",
         "formats": [
           43,
           48
-        ],
-        "directory": "1-21-overlay"
+        ]
+      },
+      {
+        "directory": "1-21-2-overlay",
+        "formats": [
+          49,
+          57
+        ]
       }
     ]
   }
