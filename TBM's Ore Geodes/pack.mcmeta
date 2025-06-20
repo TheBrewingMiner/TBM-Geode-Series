@@ -34,6 +34,13 @@
         "directory": "1-21-4-overlay",
         "formats": [
           58,
+          70
+        ]
+      },
+      {
+        "directory": "1-21-5-overlay",
+        "formats": [
+          71,
           80
         ]
       }
