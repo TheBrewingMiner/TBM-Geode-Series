@@ -98,6 +98,7 @@
             "minecraft:glow_lichen",
             "minecraft:flower_default",
             "minecraft:patch_grass_badlands",
+            "minecraft:patch_dry_grass_desert",
             "minecraft:brown_mushroom_normal",
             "minecraft:red_mushroom_normal",
             "minecraft:patch_sugar_cane_desert",
@@ -125,6 +126,12 @@
                 "maxCount": 3,
                 "minCount": 2,
                 "weight": 4
+            },
+            {
+                "type": "minecraft:camel",
+                "maxCount": 1,
+                "minCount": 1,
+                "weight": 1
             }
         ],
         "misc": [],
