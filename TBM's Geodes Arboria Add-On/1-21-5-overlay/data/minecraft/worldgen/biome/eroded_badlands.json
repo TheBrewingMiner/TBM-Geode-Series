@@ -98,10 +98,13 @@
       "arboria:badlands/dead_bush/layer_3",
       "arboria:badlands/dead_bush/layer_4",
       "arboria:badlands/dead_bush/layer_5",
+      "arboria:badlands/dry_grass_patch/layer_1",
+      "arboria:badlands/dry_grass_patch/layer_2",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "arboria:patch_sugar_cane_rare",
       "arboria:patch_pumpkin_rare",
+      "arboria:patch_firefly_bush_rare",
       "arboria:badlands/cactus/layer_1",
       "arboria:badlands/cactus/layer_2",
       "arboria:badlands/cactus/layer_3"
@@ -125,6 +128,30 @@
     ],
     "axolotls": [],
     "creature": [
+      {
+        "type": "minecraft:sheep",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 12
+      },
+      {
+        "type": "minecraft:pig",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 10
+      },
+      {
+        "type": "minecraft:chicken",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 10
+      },
+      {
+        "type": "minecraft:cow",
+        "maxCount": 4,
+        "minCount": 4,
+        "weight": 8
+      },
       {
         "type": "minecraft:armadillo",
         "maxCount": 2,
