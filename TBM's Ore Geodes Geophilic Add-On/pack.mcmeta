@@ -3,7 +3,7 @@
     "pack_format": 10,
     "supported_formats": [
       10,
-      57
+      80
     ],
     "description": "§9More geodes in Geophilic. §2Versions 1.19 - 1.21"
   },
@@ -28,6 +28,20 @@
         "formats": [
           49,
           57
+        ]
+      },
+      {
+        "directory": "1-21-4-overlay",
+        "formats": [
+          58,
+          70
+        ]
+      },
+      {
+        "directory": "1-21-5-overlay",
+        "formats": [
+          71,
+          80
         ]
       }
     ]
