@@ -89,10 +89,13 @@
       "minecraft:glow_lichen",
       "geophilic:common/flowers/default",
       "minecraft:patch_grass_badlands",
-      "minecraft:patch_dead_bush_2",
+      "geophilic:desert/dry_grass_rare",
       "geophilic:common/mushrooms",
       "geophilic:desert/sugar_cane",
       "geophilic:common/pumpkins",
+      "geophilic:desert/rocks",
+      "geophilic:desert/rocks_rare",
+      "geophilic:desert/dry_grass",
       "geophilic:desert/cacti"
     ],
     [
@@ -116,7 +119,13 @@
         "maxCount": 3,
         "minCount": 2,
         "type": "minecraft:rabbit",
-        "weight": 4
+        "weight": 12
+      },
+      {
+        "maxCount": 1,
+        "minCount": 1,
+        "type": "minecraft:camel",
+        "weight": 1
       }
     ],
     "misc": [],
