@@ -50,7 +50,7 @@
                   0
                 ],
                 "blocks": [
-                  "minecraft:grass",
+                  "minecraft:grass_block",
                   "minecraft:stone",
                   "minecraft:gravel"
                 ]
