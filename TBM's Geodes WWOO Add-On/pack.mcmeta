@@ -7,6 +7,13 @@
     "overlays": {
         "entries": [
             {
+                "directory": "1-21-2-overlay",
+                "formats": [
+                    57,
+                    70
+                ]
+            },
+            {
                 "directory": "1-21-5-overlay",
                 "formats": [
                     71,
