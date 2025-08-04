@@ -3,5 +3,16 @@
         "pack_format": 48,
         "supported_formats": [48, 81],
         "description": "§9More geodes in WWOO! §2Find them all!"
+    },
+    "overlays": {
+        "entries": [
+            {
+                "directory": "1-21-5-overlay",
+                "formats": [
+                    71,
+                    81
+                ]
+            }
+        ]
     }
 }
